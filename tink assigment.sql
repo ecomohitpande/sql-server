@@ -1,4 +1,4 @@
-
+assigment is about finding that returns top 3 authors who sold the most books in tota && that returns authors who has written more than 3 books
 ### creating first table (tink)
 
 create database tink
